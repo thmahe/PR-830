@@ -1,0 +1,45 @@
+site_name: Renault PR-830
+site_url: https://thmahe.github.io/PR-830
+
+theme:
+  logo: assets/logo.png
+  name: material
+
+markdown_extensions:
+  - tables
+
+plugins:
+   - search
+   - alternate-link
+   - macros:
+       include_yaml:
+         - material: docs/_data/material.yaml
+         - introduction: docs/_data/introduction.yaml
+         - colour_mark: docs/_data/colour_mark.yaml
+         - nav:  docs/_data/nav.yaml
+         - protection: docs/_data/protection.yaml
+   - i18n:
+       default_language: fr
+       languages:
+         en: English
+         fr: Français
+#         de: Dutch
+
+extra_css:
+  - assets/css/custom.css
+
+nav:
+- 'index.md'
+- 'parts/index.md'
+
+#extra:
+#  alternate:
+#    - name: Français
+#      lang: fr
+#      link: ./fr/
+#    - name: English
+#      lang: en
+#      link: ./en/
+#    - name: Deutsch
+#      lang: de
+#      link: ./de/

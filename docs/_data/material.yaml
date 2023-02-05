@@ -1,0 +1,21 @@
+fr:
+  "4-8": "Acier résistance à la rupture 40 à 60 h bar"
+  "6-8": "Acier résistance à la rupture 60 à 80 h bar"
+  "8-8": "Acier résistance à la rupture 80 à 100 h bar"
+  "10-9": "Acier résistance à la rupture 100 à 120 h bar"
+  "12-9": "Acier résistance à la rupture 120 à 140 h bar"
+  "05": "Acier inoxydable (pour vis et érous)<br/>Acier à ressort (pour les rondelles)"
+  "2": "Laiton"
+  "5": "Acier inoxydable"
+  "6": "Aluminium"
+
+en:
+  4-8: "Steel - tensile strength 40 to 60 h bar"
+  "6-8": "Steel - tensile strength 60 to 80 h bar"
+  "8-8": "Steel - tensile strength 80 to 100 h bar"
+  "10-9": "Steel - tensile strength 100 to 120 h bar"
+  "12-9": "Steel - tensile strength 120 to 140 h bar"
+  "05": "Stainless steel (for nuts and bolts)<br/>Spring steel (for washers)"
+  "2": "Brass"
+  "5": "Stainless steel"
+  "6": "Aluminium"
