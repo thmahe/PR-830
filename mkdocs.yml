@@ -4,13 +4,13 @@ site_url: https://thmahe.github.io/PR-830
 theme:
   logo: assets/logo.png
   name: material
+  favicon: assets/favicon.png
 
 markdown_extensions:
   - tables
 
 plugins:
    - search
-   - alternate-link
    - macros:
        include_yaml:
          - material: docs/_data/material.yaml
@@ -18,6 +18,9 @@ plugins:
          - colour_mark: docs/_data/colour_mark.yaml
          - nav:  docs/_data/nav.yaml
          - protection: docs/_data/protection.yaml
+         - part_category: docs/_data/part_category.yaml
+         - parts_hex_screws: docs/_data/parts/hex_screws.yaml
+         - parts_hex_bolts: docs/_data/parts/hex_bolts.yaml
    - i18n:
        default_language: fr
        languages:

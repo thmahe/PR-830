@@ -1,0 +1,217 @@
+77 03 032 107:
+  diameter: '3'
+  pitch: '50'
+  height: '2.4'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+79 03 032 003:
+  diameter: '4'
+  pitch: '70'
+  height: '3.2'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 417 218:
+  diameter: '4'
+  pitch: '70'
+  height: '3.2'
+  material: 8-8
+  protection: '02'
+  quantity: '100'
+79 03 032 006:
+  diameter: '5'
+  pitch: '80'
+  height: '4'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 405 672:
+  diameter: '5'
+  pitch: '80'
+  height: '4'
+  material: 8-8
+  protection: '02'
+  quantity: '50'
+77 03 032 131:
+  diameter: '6'
+  pitch: '100'
+  height: '5'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 405 673:
+  diameter: '6'
+  pitch: '100'
+  height: '5'
+  material: 8-8
+  protection: '02'
+  quantity: '50'
+79 03 032 012:
+  diameter: '7'
+  pitch: '100'
+  height: '5.5'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 405 674:
+  diameter: '7'
+  pitch: '100'
+  height: '5.5'
+  material: 8-8
+  protection: '02'
+  quantity: '30'
+77 03 032 063:
+  diameter: '8'
+  pitch: '100'
+  height: '6.8'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+79 03 032 018:
+  diameter: '8'
+  pitch: '125'
+  height: '6.5'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 405 675:
+  diameter: '8'
+  pitch: '125'
+  height: '6.5'
+  material: 8-8
+  protection: '02'
+  quantity: '50'
+77 03 032 048:
+  diameter: '8'
+  pitch: '125'
+  height: '6.8'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 032 121:
+  diameter: '8'
+  pitch: 125G
+  height: '4'
+  material: 4-8
+  protection: '02'
+  quantity: '1'
+50 03 032 156:
+  diameter: '10'
+  pitch: '125'
+  height: '8.4'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 032 105:
+  diameter: '10'
+  pitch: '150'
+  height: '4'
+  material: 4-8
+  protection: '02'
+  quantity: '1'
+77 03 032 103:
+  diameter: '10'
+  pitch: '150'
+  height: '8.4'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 01 405 676:
+  diameter: '10'
+  pitch: '150'
+  height: '8.4'
+  material: 8-8
+  protection: '02'
+  quantity: '30'
+50 03 032 157:
+  diameter: '12'
+  pitch: '125'
+  height: '10.8'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+50 03 032 197:
+  diameter: '12'
+  pitch: '150'
+  height: '10.8'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 032 102:
+  diameter: '12'
+  pitch: '175'
+  height: '10.8'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+50 03 032 165:
+  diameter: '14'
+  pitch: '150'
+  height: '7'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 032 104:
+  diameter: '14'
+  pitch: '200'
+  height: '11'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 032 068:
+  diameter: '16'
+  pitch: '100'
+  height: '6'
+  material: 4-8
+  protection: '04'
+  quantity: '1'
+77 03 032 083:
+  diameter: '16'
+  pitch: '100'
+  height: '8'
+  material: 4-8
+  protection: '02'
+  quantity: '1'
+77 03 032 056:
+  diameter: '16'
+  pitch: '150'
+  height: '8'
+  material: 4-8
+  protection: '02'
+  quantity: '1'
+77 03 032 009:
+  diameter: '16'
+  pitch: '200'
+  height: '13'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+50 03 032 103:
+  diameter: '20'
+  pitch: '150'
+  height: '10'
+  material: 4-8
+  protection: '02'
+  quantity: '1'
+50 03 032 113:
+  diameter: '20'
+  pitch: '150'
+  height: '18'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+50 03 032 085:
+  diameter: '24'
+  pitch: '150'
+  height: '10'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 032 099:
+  diameter: '24'
+  pitch: 150G
+  height: '10'
+  material: 10-9
+  protection: '02'
+  quantity: '1'

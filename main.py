@@ -16,5 +16,8 @@ def on_post_page_macros(env):
     if lang == "":
         lang = 'fr'
 
-    if env.page.title[:2] == "__":
-        env.page.title = nav[env.page.title][lang]
+    for key, val in nav.items():
+        if key in env.page.markdown:
+            env.raw_markdown = env.raw_markdown.replace(key, val[lang])
+            env.page.title = val[lang]
+            env.page.meta['title'] = val[lang]

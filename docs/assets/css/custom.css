@@ -2,6 +2,14 @@
    min-width: 100%;
 }
 
+.md-header{
+    background-color: #fcc33d;
+}
+
+.md-typeset table:not([class]) td:not([align]), .md-typeset table:not([class]) th:not([align]){
+    vertical-align: inherit;
+}
+
 .md-typeset table:not([class]) th {
     min-width: 3rem;
 }

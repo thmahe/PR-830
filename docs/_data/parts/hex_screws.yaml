@@ -1,0 +1,1043 @@
+77 03 001 538:
+  nominal_diameter: '4'
+  pitch: '70'
+  length: '8'
+  material: 6-8
+  protection: '02'
+  quantity: '1'
+77 03 001 266:
+  nominal_diameter: '4'
+  pitch: '70'
+  length: '10'
+  material: '05'
+  protection: '02'
+  quantity: '1'
+77 03 001 112:
+  nominal_diameter: '4'
+  pitch: '70'
+  length: '12'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 650:
+  nominal_diameter: '4'
+  pitch: '70'
+  length: '16'
+  material: 6-8
+  protection: '02'
+  quantity: '1'
+77 03 001 005:
+  nominal_diameter: '4'
+  pitch: '70'
+  length: '20'
+  material: 6-8
+  protection: '02'
+  quantity: '1'
+77 01 417 227:
+  nominal_diameter: '4'
+  pitch: '70'
+  length: '20'
+  material: 6-8
+  protection: '02'
+  quantity: '50'
+77 03 001 658:
+  nominal_diameter: '4'
+  pitch: '70'
+  length: '25'
+  material: 6-8
+  protection: '02'
+  quantity: '1'
+50 03 001 233:
+  nominal_diameter: '4'
+  pitch: '70'
+  length: '30'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 007:
+  nominal_diameter: '5'
+  pitch: '80'
+  length: '8'
+  material: 6-8
+  protection: '02'
+  quantity: '1'
+77 03 001 855:
+  nominal_diameter: '5'
+  pitch: '80'
+  length: '10'
+  material: '05'
+  protection: '02'
+  quantity: '1'
+77 03 001 114:
+  nominal_diameter: '5'
+  pitch: '80'
+  length: '12'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 369:
+  nominal_diameter: '5'
+  pitch: '80'
+  length: '16'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 417 228:
+  nominal_diameter: '5'
+  pitch: '80'
+  length: '16'
+  material: 8-8
+  protection: '02'
+  quantity: '50'
+77 03 001 013:
+  nominal_diameter: '5'
+  pitch: '80'
+  length: '20'
+  material: 6-8
+  protection: '02'
+  quantity: '1'
+77 01 405 659:
+  nominal_diameter: '5'
+  pitch: '80'
+  length: '20'
+  material: 6-8
+  protection: '02'
+  quantity: '50'
+77 03 001 014:
+  nominal_diameter: '5'
+  pitch: '80'
+  length: '25'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 425:
+  nominal_diameter: '5'
+  pitch: '80'
+  length: '30'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 417 229:
+  nominal_diameter: '5'
+  pitch: '80'
+  length: '30'
+  material: 8-8
+  protection: '02'
+  quantity: '20'
+50 03 001 710:
+  nominal_diameter: '5'
+  pitch: '80'
+  length: '55'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 118:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '12'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 120:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '16'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 405 660:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '16'
+  material: 8-8
+  protection: '02'
+  quantity: '30'
+77 03 001 611:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '16'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 742:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '18'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 122:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '20'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 405 661:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '20'
+  material: 8-8
+  protection: '02'
+  quantity: '30'
+77 03 001 123:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '25'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 405 662:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '25'
+  material: 8-8
+  protection: '02'
+  quantity: '30'
+77 03 001 125:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '30'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 405 663:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '30'
+  material: 8-8
+  protection: '02'
+  quantity: '20'
+77 03 001 127:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '35'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 129:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '40'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 417 230:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '40'
+  material: 8-8
+  protection: '02'
+  quantity: '20'
+77 03 001 130:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '45'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 132:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '50'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 417 231:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '50'
+  material: 8-8
+  protection: '02'
+  quantity: '10'
+77 03 001 134:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '55'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 402:
+  nominal_diameter: '6'
+  pitch: '100'
+  length: '60'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 136:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '12'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 138:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '16'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 236:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '20'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 142:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '25'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 614:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '30'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 634:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '35'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+50 03 001 123:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '40'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 607:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '45'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 237:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '50'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 667:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '55'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 153:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '60'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 238:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '65'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 103:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '70'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 443:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '85'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 435:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '90'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 011:
+  nominal_diameter: '7'
+  pitch: '100'
+  length: '95'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 800:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '12'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 156:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '14'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 158:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '16'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 160:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '20'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 405 666:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '20'
+  material: 8-8
+  protection: '02'
+  quantity: '20'
+77 03 001 820:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '20'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 162:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '25'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 405 667:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '25'
+  material: 8-8
+  protection: '02'
+  quantity: '20'
+77 03 001 373:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '30'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 240:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '35'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 693:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '40'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 608:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '45'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 552:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '50'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 169:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '55'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 170:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '60'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 417 233:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '60'
+  material: 8-8
+  protection: '02'
+  quantity: '5'
+77 03 001 729:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '65'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 822:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '70'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 397:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '75'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 241:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '80'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 481:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '90'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 806:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '97'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 178:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '100'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 001 891:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '130'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 216:
+  nominal_diameter: '8'
+  pitch: '125'
+  length: '135'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 171:
+  nominal_diameter: '10'
+  pitch: '125'
+  length: '14'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 133:
+  nominal_diameter: '10'
+  pitch: '125'
+  length: '20'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 134:
+  nominal_diameter: '10'
+  pitch: '125'
+  length: '25'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+50 03 101 460:
+  nominal_diameter: '10'
+  pitch: '125'
+  length: '30'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 166:
+  nominal_diameter: '10'
+  pitch: '125'
+  length: '35'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 135:
+  nominal_diameter: '10'
+  pitch: '125'
+  length: '55'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 119:
+  nominal_diameter: '10'
+  pitch: '125'
+  length: '70'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 120:
+  nominal_diameter: '10'
+  pitch: '125'
+  length: '75'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 121:
+  nominal_diameter: '10'
+  pitch: '125'
+  length: '85'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 090:
+  nominal_diameter: '10'
+  pitch: '125'
+  length: '110'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 199:
+  nominal_diameter: '10'
+  pitch: '125'
+  length: '130'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 140:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '16'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 044:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '20'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 045:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '25'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 405 670:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '25'
+  material: 8-8
+  protection: '02'
+  quantity: '10'
+77 03 101 069:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '30'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 070:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '35'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 072:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '40'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 073:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '45'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 074:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '50'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 075:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '55'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 076:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '60'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 01 417 235:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '60'
+  material: 8-8
+  protection: '02'
+  quantity: '5'
+77 03 101 053:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '65'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 054:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '70'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 175:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '75'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 079:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '80'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 056:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '85'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 057:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '90'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 114:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '105'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 059:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '110'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 084:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '120'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 094:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '130'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 060:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '140'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 109:
+  nominal_diameter: '10'
+  pitch: '150'
+  length: '166'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 00 713 613:
+  nominal_diameter: '12'
+  pitch: '125'
+  length: '15'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 00 783 365:
+  nominal_diameter: '12'
+  pitch: '125'
+  length: '22'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 247:
+  nominal_diameter: '12'
+  pitch: '125'
+  length: '30'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 091:
+  nominal_diameter: '12'
+  pitch: '125'
+  length: '35'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 001 755:
+  nominal_diameter: '12'
+  pitch: '125'
+  length: '40'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 093:
+  nominal_diameter: '12'
+  pitch: '125'
+  length: '50'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 136:
+  nominal_diameter: '12'
+  pitch: '125'
+  length: '55'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 097:
+  nominal_diameter: '12'
+  pitch: '125'
+  length: '60'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+50 03 101 155:
+  nominal_diameter: '12'
+  pitch: '125'
+  length: '70'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 173:
+  nominal_diameter: '12'
+  pitch: '125'
+  length: '82'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 168:
+  nominal_diameter: '12'
+  pitch: '125'
+  length: '170'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+79 03 001 174:
+  nominal_diameter: '12'
+  pitch: '150'
+  length: '35'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+50 03 101 182:
+  nominal_diameter: '12'
+  pitch: '150'
+  length: '40'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+50 03 101 183:
+  nominal_diameter: '12'
+  pitch: '150'
+  length: '80'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 139:
+  nominal_diameter: '12'
+  pitch: '175'
+  length: '20'
+  material: 6-8
+  protection: '02'
+  quantity: '1'
+77 03 101 061:
+  nominal_diameter: '12'
+  pitch: '175'
+  length: '25'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+50 03 101 123:
+  nominal_diameter: '12'
+  pitch: '175'
+  length: '30'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 062:
+  nominal_diameter: '12'
+  pitch: '175'
+  length: '35'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 063:
+  nominal_diameter: '12'
+  pitch: '175'
+  length: '40'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 147:
+  nominal_diameter: '12'
+  pitch: '175'
+  length: '45'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 211:
+  nominal_diameter: '12'
+  pitch: '175'
+  length: '50'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+50 03 101 126:
+  nominal_diameter: '12'
+  pitch: '175'
+  length: '55'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 064:
+  nominal_diameter: '12'
+  pitch: '175'
+  length: '60'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 236:
+  nominal_diameter: '12'
+  pitch: '175'
+  length: '100'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 00 756 576:
+  nominal_diameter: '12'
+  pitch: '175'
+  length: '77'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+50 03 101 317:
+  nominal_diameter: '12'
+  pitch: '175'
+  length: '90'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 00 756 575:
+  nominal_diameter: '12'
+  pitch: '175'
+  length: '110.5'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 095:
+  nominal_diameter: '14'
+  pitch: '150'
+  length: '45'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 123:
+  nominal_diameter: '14'
+  pitch: '150'
+  length: '70'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 124:
+  nominal_diameter: '14'
+  pitch: '150'
+  length: '160'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 145:
+  nominal_diameter: '14'
+  pitch: '200'
+  length: '32'
+  material: 10-9
+  protection: '02'
+  quantity: '1'
+77 03 101 100:
+  nominal_diameter: '14'
+  pitch: '200'
+  length: '60'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+50 03 101 178:
+  nominal_diameter: '14'
+  pitch: '200'
+  length: '90'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+77 03 101 067:
+  nominal_diameter: '14'
+  pitch: '200'
+  length: '110'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
+50 03 001 858:
+  nominal_diameter: '14'
+  pitch: '200'
+  length: '190'
+  material: 8-8
+  protection: '02'
+  quantity: '1'
