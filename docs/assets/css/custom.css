@@ -1,6 +1,9 @@
 .md-typeset__table {
    min-width: 100%;
 }
+table img {
+    max-height: 75px;
+}
 
 .md-header{
     background-color: #fcc33d;
@@ -8,10 +11,12 @@
 
 .md-typeset table:not([class]) td:not([align]), .md-typeset table:not([class]) th:not([align]){
     vertical-align: inherit;
+    position: sticky;
+    top: 0;
 }
 
 .md-typeset table:not([class]) th {
-    min-width: 3rem;
+    min-width: fit-content;
 }
 
 .md-typeset table:not([class]) {
@@ -35,6 +40,7 @@ th, td {
     border-bottom: none;
     border-left: none;
     border-top: none;
+    min-width: 100px;
 }
 
 .md-typeset__table {
@@ -48,7 +54,7 @@ th, td {
 
 .md-typeset__table table:not([class]) td,
 .md-typeset__table table:not([class]) th {
-    padding: 9px;
+    padding: 7px;
 }
 
 /* light mode alternating table bg colors */

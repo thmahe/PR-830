@@ -4,23 +4,17 @@ site_url: https://thmahe.github.io/PR-830
 theme:
   logo: assets/logo.png
   name: material
+  palette:
+    primary: amber
   favicon: assets/favicon.png
 
 markdown_extensions:
   - tables
+  - attr_list
 
 plugins:
-   - search
-   - macros:
-       include_yaml:
-         - material: docs/_data/material.yaml
-         - introduction: docs/_data/introduction.yaml
-         - colour_mark: docs/_data/colour_mark.yaml
-         - nav:  docs/_data/nav.yaml
-         - protection: docs/_data/protection.yaml
-         - part_category: docs/_data/part_category.yaml
-         - parts_hex_screws: docs/_data/parts/hex_screws.yaml
-         - parts_hex_bolts: docs/_data/parts/hex_bolts.yaml
+   - search:
+       separator: '[\s]+'
    - i18n:
        default_language: fr
        languages:
@@ -34,15 +28,3 @@ extra_css:
 nav:
 - 'index.md'
 - 'parts/index.md'
-
-#extra:
-#  alternate:
-#    - name: Français
-#      lang: fr
-#      link: ./fr/
-#    - name: English
-#      lang: en
-#      link: ./en/
-#    - name: Deutsch
-#      lang: de
-#      link: ./de/
