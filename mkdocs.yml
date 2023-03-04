@@ -1,9 +1,13 @@
 site_name: Renault PR-830
 site_url: https://thmahe.github.io/PR-830
+repo_url: https://github.com/thmahe/PR-830
+repo_name: thmahe/PR-830
 
 theme:
   logo: assets/logo.png
   name: material
+  icon:
+    repo: fontawesome/brands/github
   palette:
     primary: amber
   favicon: assets/favicon.png
