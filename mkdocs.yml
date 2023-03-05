@@ -20,6 +20,8 @@ markdown_extensions:
 plugins:
    - search:
        separator: '[\s]+'
+   - minify:
+       minify_html: true
    - i18n:
        default_language: fr
        languages:
